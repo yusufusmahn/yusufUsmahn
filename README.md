@@ -1,16 +1,21 @@
 # 👋 Hi, I'm Yusuf Usman
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-blue?style=for-the-badge&logo=appveyor&logoColor=white)
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yusufusmahn.yusufusmahn)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yusufusmahn&theme=radical)
+
 ## About Me
 
 I'm a passionate software engineer specializing in building scalable and secure web applications. With strong expertise in Java and a solid foundation in JavaScript, Python, React, and backend frameworks, I enjoy solving complex problems and contributing to innovative projects.
 
-- 💼 Current Role: Software Engineer at Semicolon Africa
-- 🎓 Education: BSc Mathematics & Masters in Information Management, Ahmadu Bello University, Zaria
-
+- 💼 Current Role: Software Engineer at Semicolon Africa  
+- 🎓 Education:  
+  BSc Mathematics  
+  Masters in Information Management  
   Software Engineering Certificate, Semicolon Africa  
-- 🌍 Based in: Lagos, Nigeria
-- 🗣 Languages: English
+  Ahmadu Bello University, Zaria  
+- 🌍 Based in: Lagos, Nigeria  
+- 🗣 Languages: English  
 
 ## Skills & Technologies
 
@@ -36,45 +41,36 @@ I'm a passionate software engineer specializing in building scalable and secure 
   A lightweight and efficient URL shortener service developed using Java, enabling users to shorten, manage, and track URLs. 🔗
 
 - [Auction System Maven (eBay Clone)](https://github.com/yusufusmahn/AuctionSystemMaven-Ebay)  
-  An auction platform where users can bid on items in real-time, implemented with Java Maven and Spring Security for robust authentication. ⚙
+  An auction platform where users can bid on items in real-time, implemented with Java Maven and Spring Security for robust authentication. ⚙️
 
 ## GitHub Stats
 
 ![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufusmahn&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufusmahn&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufusmahn&theme=radical)
 
 ## Currently Learning
 
-- Rust programming language
-- Cloud architecture (AWS, Azure)
+- Rust programming language  
+- Cloud architecture (AWS, Azure)  
+
+## Tools & Platforms
+
+- VS Code, IntelliJ IDEA  
+- Docker  
+- AWS, Azure  
+- GitHub Actions  
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-usman-625193218)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-usman-625193218)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusuf.usman1003@gmail.com)
 
 ## Fun Facts
 
-- 🎸 I play Basketball in my free time.
-- 🌍 I love traveling and exploring new cultures.
-- 🧩 Favorite quote: "Simplicity is the soul of efficiency."
--
+- 🏀 I play basketball in my free time.  
+- 🌍 I love traveling and exploring new cultures.  
+- 🧩 Favorite quote: "Simplicity is the soul of efficiency."  
 
+---
 
-
-
-
-<!--
-**yusufusmahn/yusufUsmahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
