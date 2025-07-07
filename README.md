@@ -20,13 +20,13 @@ I'm a passionate software engineer specializing in building scalable web applica
 
 ## Featured Projects
 
-- [Project One](https://github.com/yusufUsmahn/project-one)  
-  _An E-Commerce app for Buying And Selling using Java and Node.js._ 🚀
+- [E-Commerce](https://github.com/yusufUsmahn/](https://github.com/yusufusmahn/E-Commerce-Group-Project.git)  
+  _An E-Commerce app for Buying And Selling using Java and React._ 🚀
 
-- [Project Two](https://github.com/yusufUsmahn/project-two)  
+- [URL Shortner](https://github.com/yusufUsmahn/project-two](https://github.com/yusufusmahn/URL-Shortner-Service.git)  
   _A URL Shortner for Shortening Long URLs._ 🤖
 
-- [Project Three](https://github.com/yusufUsmahn/project-three)  
+- [Project Three](https://github.com/yusufUsmahn/project-three](https://github.com/yusufusmahn/AuctionSystemMaven-Ebay.git)  
   _Open-source CLI tool for automating deployments._ ⚙️
 
 
