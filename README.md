@@ -33,7 +33,7 @@ I'm a passionate software engineer specializing in building scalable and secure 
   A full-stack e-commerce application built with Java Spring Boot and React, featuring secure user authentication, product management, and seamless payment integration. 🚀
 
 - [URL Shortener Service](https://github.com/yusufusmahn/URL-Shortner-Service)  
-  A lightweight and efficient URL shortener service developed using Python Flask, enabling users to shorten, manage, and track URLs. 🔗
+  A lightweight and efficient URL shortener service developed using Java, enabling users to shorten, manage, and track URLs. 🔗
 
 - [Auction System Maven (eBay Clone)](https://github.com/yusufusmahn/AuctionSystemMaven-Ebay)  
   An auction platform where users can bid on items in real-time, implemented with Java Maven and Spring Security for robust authentication. ⚙
@@ -55,7 +55,7 @@ I'm a passionate software engineer specializing in building scalable and secure 
 
 ## Fun Facts
 
-- 🎸 I play the guitar in my free time.
+- 🎸 I play Basketball in my free time.
 - 🌍 I love traveling and exploring new cultures.
 - 🧩 Favorite quote: "Simplicity is the soul of efficiency."
 -
