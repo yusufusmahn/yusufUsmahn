@@ -6,9 +6,12 @@
 I'm a passionate software engineer specializing in building scalable and secure web applications. With strong expertise in Java and a solid foundation in JavaScript, Python, React, and backend frameworks, I enjoy solving complex problems and contributing to innovative projects.
 
 - 💼 Current Role: Software Engineer at Semicolon Africa
-- 🎓 Education: BSc Mathematics & Masters in Information Management, Ahmadu Bello University Zaria
+- 🎓 Education:  
+  BSc Mathematics, Ahmadu Bello University, Zaria
+  Masters in Information Management, Ahmadu Bello University, Zaria
+  Software Engineering Certificate, Semicolon Africa  
 - 🌍 Based in: Lagos, Nigeria
-- 🗣️ Languages: English
+- 🗣 Languages: English
 
 ## Skills & Technologies
 
@@ -28,13 +31,13 @@ I'm a passionate software engineer specializing in building scalable and secure 
 ## Featured Projects
 
 - [E-Commerce Group Project](https://github.com/yusufusmahn/E-Commerce-Group-Project)  
-  _A full-stack e-commerce application built with Java Spring Boot and React, featuring secure user authentication, product management, and seamless payment integration._ 🚀
+  A full-stack e-commerce application built with Java Spring Boot and React, featuring secure user authentication, product management, and seamless payment integration. 🚀
 
 - [URL Shortener Service](https://github.com/yusufusmahn/URL-Shortner-Service)  
-  _A lightweight and efficient URL shortener service developed using Python Flask, enabling users to shorten, manage, and track URLs._ 🔗
+  A lightweight and efficient URL shortener service developed using Python Flask, enabling users to shorten, manage, and track URLs. 🔗
 
 - [Auction System Maven (eBay Clone)](https://github.com/yusufusmahn/AuctionSystemMaven-Ebay)  
-  _An auction platform where users can bid on items in real-time, implemented with Java Maven and Spring Security for robust authentication._ ⚙️
+  An auction platform where users can bid on items in real-time, implemented with Java Maven and Spring Security for robust authentication. ⚙
 
 ## GitHub Stats
 
@@ -56,6 +59,7 @@ I'm a passionate software engineer specializing in building scalable and secure 
 - 🎸 I play the guitar in my free time.
 - 🌍 I love traveling and exploring new cultures.
 - 🧩 Favorite quote: "Simplicity is the soul of efficiency."
+-
 
 
 
