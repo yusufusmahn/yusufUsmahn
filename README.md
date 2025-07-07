@@ -2,18 +2,15 @@
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-blue?style=for-the-badge&logo=appveyor&logoColor=white)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yusufusmahn.yusufusmahn)
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yusufusmahn&theme=radical)
+<!--![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yusufusmahn&theme=radical)-->
 
 ## About Me
 
 I'm a passionate software engineer specializing in building scalable and secure web applications. With strong expertise in Java and a solid foundation in JavaScript, Python, React, and backend frameworks, I enjoy solving complex problems and contributing to innovative projects.
 
 - 💼 Current Role: Software Engineer at Semicolon Africa  
-- 🎓 Education:  
-  BSc Mathematics  
-  Masters in Information Management  
-  Software Engineering Certificate, Semicolon Africa  
-  Ahmadu Bello University, Zaria  
+- 🎓 Education: BSc Mathematics & Masters in Information Management Ahmadu Bello University, Zaria 
+                 Software Engineering Certificate, Semicolon Africa
 - 🌍 Based in: Lagos, Nigeria  
 - 🗣 Languages: English  
 
