@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a passionate software engineer specializing in building scalable web applications and innovative solutions. With experience in [Java], I enjoy solving complex problems and contributing to open-source projects.
+I'm a passionate software engineer specializing in building scalable web applications and innovative solutions. With experience in Java, I enjoy solving complex problems and contributing to open-source projects.
 
 - 💼 Current Role: Software Engineer at Semicolon Africa
 - 🎓 Education: BSC Mathematics, Masters In Information Management, Ahmadu Bello University Zaria
@@ -26,8 +26,8 @@ I'm a passionate software engineer specializing in building scalable web applica
 - [URL Shortner](https://github.com/yusufUsmahn/project-two](https://github.com/yusufusmahn/URL-Shortner-Service.git)  
   _A URL Shortner for Shortening Long URLs._ 🤖
 
-- [Project Three](https://github.com/yusufUsmahn/project-three](https://github.com/yusufusmahn/AuctionSystemMaven-Ebay.git)  
-  _Open-source CLI tool for automating deployments._ ⚙️
+- [Auction System](https://github.com/yusufUsmahn/project-three](https://github.com/yusufusmahn/AuctionSystemMaven-Ebay.git)  
+  _An Auction System Where Buyers Can Bid On Listed Items._ ⚙️
 
 
 ## GitHub Stats
