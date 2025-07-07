@@ -1,14 +1,59 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Yusuf Usman
 ![Software Engineer](https://img.shields.io/badge/Software%20Engineer-blue)
 
 ## About Me
 
 I'm a passionate software engineer specializing in building scalable web applications and innovative solutions. With experience in [Java], I enjoy solving complex problems and contributing to open-source projects.
 
-- 💼 Current Role: Software Engineer at [Semicolon Africa]
-- 🎓 Education: [BSC Mathematics], [Ahmadu Bello University]
-- 🌍 Based in: [Lagos NG]
-- 🗣️ Languages: [Nigeria]
+- 💼 Current Role: Software Engineer at Semicolon Africa
+- 🎓 Education: BSC Mathematics, Ahmadu Bello University
+- 🌍 Based in: Lagos NG
+- 🗣️ Languages: Nigeria
+
+## Skills & Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
+## Featured Projects
+
+- [Project One](https://github.com/yourusername/project-one)  
+  _A web app for real-time collaboration using React and Node.js._ 🚀
+
+- [Project Two](https://github.com/yourusername/project-two)  
+  _Machine learning pipeline for predictive analytics._ 🤖
+
+- [Project Three](https://github.com/yourusername/project-three)  
+  _Open-source CLI tool for automating deployments._ ⚙️
+
+
+## GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
+
+## Currently Learning
+
+- Rust programming language
+- Cloud architecture (AWS, Azure)
+
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/yusuf-usman-625193218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusuf.usman@gmail.com)
+
+## Fun Facts
+
+- 🎸 I play the guitar in my free time.
+- 🌍 I love traveling and exploring new cultures.
+- 🧩 Favorite quote: "Simplicity is the soul of efficiency."
+
+
 
 
 <!--
