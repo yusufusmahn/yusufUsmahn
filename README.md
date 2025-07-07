@@ -7,6 +7,7 @@ I'm a passionate software engineer specializing in building scalable and secure 
 
 - 💼 Current Role: Software Engineer at Semicolon Africa
 - 🎓 Education: BSc Mathematics & Masters in Information Management, Ahmadu Bello University, Zaria
+
   Software Engineering Certificate, Semicolon Africa  
 - 🌍 Based in: Lagos, Nigeria
 - 🗣 Languages: English
