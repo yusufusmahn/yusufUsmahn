@@ -6,9 +6,9 @@
 I'm a passionate software engineer specializing in building scalable web applications and innovative solutions. With experience in [Java], I enjoy solving complex problems and contributing to open-source projects.
 
 - 💼 Current Role: Software Engineer at Semicolon Africa
-- 🎓 Education: BSC Mathematics, Ahmadu Bello University
+- 🎓 Education: BSC Mathematics, Masters In Information Management, Ahmadu Bello University Zaria
 - 🌍 Based in: Lagos NG
-- 🗣️ Languages: Nigeria
+- 🗣️ Languages: English
 
 ## Skills & Technologies
 
@@ -20,20 +20,20 @@ I'm a passionate software engineer specializing in building scalable web applica
 
 ## Featured Projects
 
-- [Project One](https://github.com/yourusername/project-one)  
-  _A web app for real-time collaboration using React and Node.js._ 🚀
+- [Project One](https://github.com/yusufUsmahn/project-one)  
+  _An E-Commerce app for Buying And Selling using Java and Node.js._ 🚀
 
-- [Project Two](https://github.com/yourusername/project-two)  
-  _Machine learning pipeline for predictive analytics._ 🤖
+- [Project Two](https://github.com/yusufUsmahn/project-two)  
+  _A URL Shortner for Shortening Long URLs._ 🤖
 
-- [Project Three](https://github.com/yourusername/project-three)  
+- [Project Three](https://github.com/yusufUsmahn/project-three)  
   _Open-source CLI tool for automating deployments._ ⚙️
 
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufUsmahn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufUsmahn&layout=compact)
 
 
 ## Currently Learning
@@ -45,7 +45,7 @@ I'm a passionate software engineer specializing in building scalable web applica
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/yusuf-usman-625193218?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusuf.usman@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yusuf.usman1003@gmail.com)
 
 ## Fun Facts
 
