@@ -1,74 +1,51 @@
-# 👋 Hi, I'm Yusuf Usman
-![Software Engineer](https://img.shields.io/badge/Software%20Engineer-blue?style=for-the-badge&logo=appveyor&logoColor=white)
+# Yusuf Usman
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=yusufusmahn.yusufusmahn)
-<!--![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yusufusmahn&theme=radical)-->
+Backend engineer and quant developer with a mathematics background. I build production APIs in Java and Python, and full stack systems around generative AI models.
 
-## About Me
+- **Currently:** Quant Developer at Algorithmic Sciences
+- **Based in:** Abuja, Nigeria
+- **Education:** MSc Information Management (2024), BSc Mathematics (2017), Ahmadu Bello University, Zaria. Software Engineering Certificate, Semicolon Africa, Lagos.
+- **Languages:** English
 
-I'm a passionate software engineer specializing in building scalable and secure web applications. With strong expertise in Java and a solid foundation in JavaScript, Python, React, and backend frameworks, I enjoy solving complex problems and contributing to innovative projects.
+## Selected Projects
 
-- 💼 Current Role: Software Engineer Trainee at Semicolon Africa  
-- 🎓 Education: BSc Mathematics & Masters in Information Management, Ahmadu Bello University Zaria 
+### AI Video and Ad Generation Platform
+Full stack application that turns a product page or a written brief into a finished AI presenter video. Four generative AI providers sit behind one internal interface covering text, image, video and audio, with asynchronous job orchestration, a live itemised spend ledger, and enforced cost caps on paid inference.
 
-  Software Engineering Certificate, Semicolon Africa Lagos
-- 🌍 Based in: Lagos, Nigeria  
-- 🗣 Languages: English  
+`Python` `FastAPI` `React` `Google Gemini` `Veo` `fal.ai` `BytePlus ModelArk` `ElevenLabs` `FFmpeg`
 
-## Skills & Technologies
+### [Capstone Project](https://github.com/yusufusmahn/Capstone-Project)
+Digital Voting System.
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+`Python` `Django`
 
-## Featured Projects
+### [E-Commerce Platform](https://github.com/yusufusmahn/E-Commerce-Group-Project)
+Full stack e-commerce application with secure user authentication, product management and payment integration.
 
-- [E-Commerce Group Project](https://github.com/yusufusmahn/E-Commerce-Group-Project)  
-  A full-stack e-commerce application built with Java Spring Boot and React, featuring secure user authentication, product management, and seamless payment integration. 🚀
+`Java` `Spring Boot` `React` `PostgreSQL` `JWT`
 
-- [URL Shortener Service](https://github.com/yusufusmahn/URL-Shortner-Service)  
-  A lightweight and efficient URL shortener service developed using Java, enabling users to shorten, manage, and track URLs. 🔗
+### [Auction System](https://github.com/yusufusmahn/AuctionSystemMaven-Ebay)
+Auction platform supporting real-time bidding, with authentication handled through Spring Security.
 
-- [Auction System Maven (eBay Clone)](https://github.com/yusufusmahn/AuctionSystemMaven-Ebay)  
-  An auction platform where users can bid on items in real-time, implemented with Java Maven and Spring Security for robust authentication. ⚙️
+`Java` `Maven` `Spring Security`
 
-## GitHub Stats
+### [URL Shortener Service](https://github.com/yusufusmahn/URL-Shortner-Service)
+Service for shortening, managing and tracking URLs, with database indexing tuned for fast lookups.
 
-![Yusuf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yusufusmahn&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufusmahn&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yusufusmahn&theme=radical)
+`Java` `Spring Boot` `MongoDB` `PostgreSQL`
 
-## Currently Learning
+## Tech
 
-- Rust programming language  
-- Cloud architecture (AWS, Azure)  
+| | |
+|---|---|
+| **Languages** | Java, Python, Go, JavaScript, SQL |
+| **Backend** | Spring Boot, Spring Security, FastAPI, Django, Flask, REST API design, microservices |
+| **Frontend** | React, Vite |
+| **Data** | PostgreSQL, MongoDB |
+| **Generative AI** | Google Gemini, Veo, Imagen, ElevenLabs, fal.ai, BytePlus ModelArk |
+| **Infrastructure** | Docker, GitHub Actions, Jenkins, AWS, Azure |
+| **Tools** | Git, IntelliJ IDEA, VS Code, FFmpeg |
 
-## Tools & Platforms
+## Contact
 
-- VS Code, IntelliJ IDEA  
-- Docker  
-- AWS, Azure  
-- GitHub Actions  
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yusuf-usman-625193218)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yusuf.usman1003@gmail.com)
-
-## Fun Facts
-
-- 🏀 I play basketball in my free time.  
-- 🌍 I love traveling and exploring new cultures.  
-- 🧩 Favorite quote: "Simplicity is the soul of efficiency."  
-
----
-
+[LinkedIn](https://linkedin.com/in/yusuf-usman-625193218) · [Email](mailto:yusuf.usman1003@gmail.com)
