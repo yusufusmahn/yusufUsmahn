@@ -9,15 +9,10 @@ Backend engineer and quant developer with a mathematics background. I build prod
 
 ## Selected Projects
 
-### AI Video and Ad Generation Platform
+### [AI Video and Ad Generation Platform](https://github.com/yusufusmahn/AI-Video-and-Ad-Generation-Platform)
 Full stack application that turns a product page or a written brief into a finished AI presenter video. Four generative AI providers sit behind one internal interface covering text, image, video and audio, with asynchronous job orchestration, a live itemised spend ledger, and enforced cost caps on paid inference.
 
 `Python` `FastAPI` `React` `Google Gemini` `Veo` `fal.ai` `BytePlus ModelArk` `ElevenLabs` `FFmpeg`
-
-### [Capstone Project](https://github.com/yusufusmahn/Capstone-Project)
-Digital Voting System.
-
-`Python` `Django`
 
 ### [E-Commerce Platform](https://github.com/yusufusmahn/E-Commerce-Group-Project)
 Full stack e-commerce application with secure user authentication, product management and payment integration.
@@ -33,6 +28,11 @@ Auction platform supporting real-time bidding, with authentication handled throu
 Service for shortening, managing and tracking URLs, with database indexing tuned for fast lookups.
 
 `Java` `Spring Boot` `MongoDB` `PostgreSQL`
+
+### [Digital Voting System](https://github.com/yusufusmahn/Capstone-Project)
+Django based digital voting system covering voter registration, ballot casting and result tallying.
+
+`Python` `Django`
 
 ## Tech
 
